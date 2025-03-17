@@ -4,7 +4,7 @@ public class App {
 
         int i = 0;
 
-        if(true){
+        while(i<10){
             i++;
             System.out.println(i);
         }
